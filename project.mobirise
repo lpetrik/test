@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KrakenShop",
-    "currentPage": "index.html",
+    "currentPage": "bazar.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -1002,7 +1002,7 @@
             "showSubtitle": false,
             "showTitle": true,
             "showText": false,
-            "showDate": true
+            "showDate": false
           },
           "media1": {
             "image": {
