@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KrakenShop",
-    "currentPage": "index.html",
+    "currentPage": "znacky.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -108,9 +108,9 @@
             "bgColor": "#000000",
             "fontSize": "1.6",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",
@@ -249,7 +249,7 @@
           },
           "title": "<em><br></em><span style=\"font-weight: normal;\"><i>KRAKEN SHOP CYKLO</i></span>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/Kraken-Shop-Dob%C5%99%C3%AD%C5%A1-1557833857803376/\" class=\"btn btn-primary\" role=\"button\">Více o nás na facebooku</a>"
+          "buttons": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/Kraken-Shop-Dob%C5%99%C3%AD%C5%A1-1557833857803376/\" class=\"btn btn-primary\" role=\"button\" target=\"_blank\">Více o nás na facebooku</a>"
         },
         {
           "media": {
@@ -276,7 +276,9 @@
             "P": {
               "color": "#000000",
               "text-align": "left",
-              "font-size": "22px"
+              "font-size": "22px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             "H4": {
               "font-size": "23px",
@@ -284,8 +286,8 @@
               "color": "#000000"
             },
             "SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "color": "#000000"
             },
             "I": {
@@ -367,7 +369,7 @@
             }
           },
           "title3": "Aktuality",
-          "text3": "Nově prodávame také elektrokola.",
+          "text3": "<b>Nově prodávame také elektrokola.</b>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -486,9 +488,9 @@
             "bgColor": "#000000",
             "fontSize": "1.6",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",
@@ -649,7 +651,7 @@
           "text2": "<b>Dukelské náměstí Dobříš 26301</b>",
           "subtitle3": "Subtitle3",
           "title3": "Mail a Facebook",
-          "text3": "<a href=\"mailto:obchod@krakenshop.cz\" class=\"text-black\"><b>obchod@krakenshop.cz</b></a><br><a href=\"mailto:obchod@krakenshop.cz\"><br></a><b>Facebook</b>"
+          "text3": "<a href=\"mailto:obchod@krakenshop.cz\" class=\"text-black\"><b>obchod@krakenshop.cz</b></a><br><a href=\"mailto:obchod@krakenshop.cz\"><br></a><b><a href=\"https://www.facebook.com/Kraken-Shop-Dob%C5%99%C3%AD%C5%A1-1557833857803376/\">Facebook</a></b>"
         }
       ]
     },
@@ -729,9 +731,9 @@
             "bgColor": "#000000",
             "fontSize": "1.6",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",
@@ -885,8 +887,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "1.6rem"
@@ -939,9 +941,9 @@
             "bgColor": "#000000",
             "fontSize": "1.6",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",
@@ -1152,8 +1154,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "1.6rem"
@@ -1206,9 +1208,9 @@
             "bgColor": "#000000",
             "fontSize": "1.6",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",
@@ -1251,25 +1253,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/download-2000x336-31-800x134-45.png",
                 "image": "@PROJECT_PATH@/assets/images/download-2000x336-31.png",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1278,25 +1262,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1321,7 +1288,7 @@
             "spacing": "5",
             "showText": false,
             "filter": true,
-            "bgColor": "#000000",
+            "bgColor": "#222222",
             "showBullets": false
           },
           "_anchor": "gallery1-1b",
