@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KrakenShop",
-    "currentPage": "znacky.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -19,7 +19,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "3.10.4",
     "favicon": "@PROJECT_PATH@/assets/images/kraken-logo.gif",
     "noImageResize": "",
@@ -274,7 +274,7 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "color": "#052163",
+              "color": "#000000",
               "text-align": "left",
               "font-size": "22px"
             },
@@ -298,13 +298,13 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content1-16",
+          "_anchor": "content1-1c",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "4",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1435226148432-67c26cc5cbaf-2000x1102-95.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1435226148432-67c26cc5cbaf-2000x1102-95-1.jpg",
             "bgColor": "#a4b1ce",
             "bgColorRadio": false,
             "bgVideo": {
@@ -312,8 +312,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000000",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff",
             "showSubtitle": false,
             "showTitle": true,
             "showText": false,
@@ -337,12 +337,12 @@
             }
           },
           "title1": "Otevírací doba",
-          "text1": "<p><b>Pondělí: &nbsp; &nbsp;9:00-11:30 12:30-17<br>Úterý:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17<br>Středa:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17<br>Čtvrtek:&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17<br>Pátek: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17<br>Sobota:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17</b><br><b>Neděle: &nbsp;</b>&nbsp; <b>&nbsp; ZAVŘENO</b></p>",
+          "text1": "<p><b>Pondělí: &nbsp; &nbsp;9:00-11:30 12:30-17<br>Úterý:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17<br>Středa:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17<br>Čtvrtek:&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17<br>Pátek: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17<br>Sobota:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-11:30 12:30-17\u001b</b><br><b>Neděle: &nbsp;</b>&nbsp; <b>&nbsp; ZAVŘENO</b></p>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "quote",
+              "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
               "link": "mailto:obchod@krakenshop.cz",
