@@ -274,7 +274,7 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "color": "#000000",
+              "color": "#052163",
               "text-align": "left",
               "font-size": "22px"
             },
@@ -313,7 +313,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#151515",
+            "overlayColor": "#000000",
             "showSubtitle": false,
             "showTitle": true,
             "showText": false,
