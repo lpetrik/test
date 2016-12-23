@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KrakenShop",
-    "currentPage": "bazar.html",
+    "currentPage": "znacky.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -1241,7 +1241,7 @@
           "_name": "gallery1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 0,
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -1318,11 +1318,11 @@
                 "active": false
               }
             ],
-            "spacing": 0,
+            "spacing": "5",
             "showText": false,
             "filter": true,
-            "bgColor": "#FFFFFF",
-            "showBullets": true
+            "bgColor": "#000000",
+            "showBullets": false
           },
           "_anchor": "gallery1-1b",
           "articleLayout": false,
